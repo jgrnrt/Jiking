@@ -1,6 +1,2 @@
-npm run dev - für dev server
-
-
-
-
-vite build
+# Dev Server lokal starten
+```npm run dev```
