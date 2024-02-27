@@ -1,2 +1,2 @@
-# Dev Server lokal starten
+# Dev Server
 ```npm run dev```
